@@ -1,0 +1,10 @@
+ATELIER · SITIO WEB (VERSIÓN MEJORADA)
+Abrir: doble clic en index.html (Chrome, Edge o Firefox). Mantener las carpetas assets, css, js y video junto a los HTML.
+Pendiente de completar:
+1. js/atelier.js → WHATSAPP_NUMBER (ej. '51999999999').
+2. video/hero.mp4 → video de portada (opcional).
+3. Pie de página: horario, Instagram, Facebook y TikTok (están como "por definir").
+4. Colecciones: reemplazar las fotos de referencia por la foto real de cada colección (assets/*.webp).
+5. Aplicaciones e Identidad corporativa: aún tienen recuadros para fotos reales.
+Colores oficiales: azul #3B50CF, anaranjado #FD7C00, verde #089008, amarillo #FFE401, magenta #F126F0, gris #919191.
+Para texto se usan variantes más oscuras (magenta #A40BA3, verde #067006, naranja #B85300) para cumplir contraste de accesibilidad.

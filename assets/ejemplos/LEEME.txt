@@ -1,0 +1,96 @@
+IMÁGENES DE EJEMPLO · Guarda aquí cada imagen con el nombre exacto (.webp, .jpg, .png o .jpeg). Si el archivo existe, aparece solo; si no, se ve el aviso.
+Medida sugerida: 1200×900 px (4:3) para ejemplos; 1600×700 px (16:7) para el plan y el simulador.
+
+personalidad-artistica-1  →  Captura de conversación en redes: Reel del proceso: del boceto al vestido terminado, con música suave.
+personalidad-artistica-2  →  Foto o mockup aplicado: Cada pieza se presenta con foto de estudio y una frase sobre la flor o el ave que la inspiró.
+personalidad-artistica-3  →  Foto o mockup aplicado: Vitrina que cambia con cada colección, con las alas colgadas como cuadros.
+personalidad-artistica-4  →  Captura de conversación en redes: Publicaciones con textura de tela y los colores oficiales de la colección.
+personalidad-artistica-5  →  Foto o mockup aplicado: Sesión de fotos en la naturaleza de la Selva Central con el vestuario en movimiento.
+personalidad-innovadora-1  →  Foto o mockup aplicado: Formulario de reserva en la web que arma el mensaje de WhatsApp en segundos.
+personalidad-innovadora-2  →  Captura de conversación en redes: Antes y después de una pieza de ecodiseño hecha con materiales reutilizados.
+personalidad-innovadora-3  →  Foto o mockup aplicado: Código QR en cada etiqueta que lleva a la ficha de la prenda.
+personalidad-innovadora-4  →  Captura de conversación en redes: Encuesta en historias para elegir la próxima colección.
+personalidad-innovadora-5  →  Captura de conversación en redes: Video lento de las alas articuladas abriéndose.
+personalidad-acogedora-1  →  Foto o mockup aplicado: Saludo cordial y asesoría personalizada al elegir y probar el traje.
+personalidad-acogedora-2  →  Captura de conversación en redes: Responder con el nombre de la persona y una pregunta sobre su evento.
+personalidad-acogedora-3  →  Foto o mockup aplicado: Rincón de descanso y consulta con sillón, mesa de madera y luz cálida.
+personalidad-acogedora-4  →  Captura de conversación en redes: Mensaje de agradecimiento al devolver la pieza, invitando a compartir su foto.
+personalidad-acogedora-5  →  Foto o mockup aplicado: Acompañar a las familias con paciencia; los menores reservan con un adulto.
+personalidad-creativa-1  →  Captura de conversación en redes: Proponer un look completo a partir de la idea que cuenta el cliente.
+personalidad-creativa-2  →  Captura de conversación en redes: Historia de la semana: "¿Qué flor o ave te gustaría vestir?"
+personalidad-creativa-3  →  Foto o mockup aplicado: Piezas únicas que combinan telas, plumas y papel, mostradas de cerca.
+personalidad-creativa-4  →  Foto o mockup aplicado: Cada colección lleva el nombre de una historia corta de la Selva Central.
+personalidad-creativa-5  →  Captura de conversación en redes: Tres formas de llevar la misma pieza: sesión, fiesta y desfile.
+personalidad-profesional-1  →  Captura de conversación en redes: Confirmar por escrito fecha, pieza y talla antes de cada alquiler.
+personalidad-profesional-2  →  Captura de conversación en redes: Dar un plazo claro de respuesta en cada consulta.
+personalidad-profesional-3  →  Foto o mockup aplicado: Usar siempre el logo y los colores oficiales del manual.
+personalidad-profesional-4  →  Foto o mockup aplicado: Fotos limpias y bien iluminadas con la misma plantilla en todas las piezas.
+personalidad-profesional-5  →  Foto o mockup aplicado: Entrega puntual con la prenda revisada y lista para usar.
+personalidad-cautivadora-1  →  Captura de conversación en redes: Primer segundo de cada reel con la pieza más llamativa.
+personalidad-cautivadora-2  →  Captura de conversación en redes: Frases que invitan a imaginar: "¿Y si tu evento floreciera?"
+personalidad-cautivadora-3  →  Foto o mockup aplicado: Portada de la web con video corto de alas abriéndose.
+personalidad-cautivadora-4  →  Captura de conversación en redes: Reacciones de las personas al ver un diseño, publicadas con su permiso.
+personalidad-cautivadora-5  →  Foto o mockup aplicado: Fotos de detalle con luz natural: plumas, bordados y texturas.
+valores-calidad-1  →  Foto o mockup aplicado: Revisar costuras y acabados antes de cada entrega.
+valores-calidad-2  →  Captura de conversación en redes: Fotos de cerca que muestran los materiales de cada pieza.
+valores-calidad-3  →  Foto o mockup aplicado: Entrega puntual de cada alquiler.
+valores-calidad-4  →  Foto o mockup aplicado: Prendas limpias, planchadas y guardadas con cuidado.
+valores-calidad-5  →  Captura de conversación en redes: Pedir opinión después del alquiler para seguir mejorando.
+valores-confort-1  →  Foto o mockup aplicado: Probar el traje con calma antes del evento.
+valores-confort-2  →  Captura de conversación en redes: Responder dudas de talla y de cómo ponerse la pieza.
+valores-confort-3  →  Foto o mockup aplicado: Rincón de descanso y consulta con luz cálida.
+valores-confort-4  →  Foto o mockup aplicado: Telas y forros pensados para llevarlos varias horas.
+valores-confort-5  →  Captura de conversación en redes: Consejos de cuidado enviados junto con la reserva.
+valores-responsabilidad-1  →  Foto o mockup aplicado: Línea de ecodiseño con materiales reutilizados.
+valores-responsabilidad-2  →  Captura de conversación en redes: Confirmar fecha y condiciones acordadas por escrito.
+valores-responsabilidad-3  →  Foto o mockup aplicado: Acompañamiento adulto para menores de edad.
+valores-responsabilidad-4  →  Captura de conversación en redes: Mostrar procesos reales, sin prometer lo que no se hace.
+valores-responsabilidad-5  →  Foto o mockup aplicado: Registro de cada reserva y devolución.
+valores-creatividad-1  →  Foto o mockup aplicado: Diseños inspirados en flores y aves de la región.
+valores-creatividad-2  →  Foto o mockup aplicado: Colecciones nuevas: Fantasía, Botánica, Aves y Ecodiseño.
+valores-creatividad-3  →  Captura de conversación en redes: Piezas a pedido a partir de la idea del cliente.
+valores-creatividad-4  →  Captura de conversación en redes: Bocetos, procesos y antes y después en redes.
+valores-creatividad-5  →  Captura de conversación en redes: Invitar al público a votar o proponer temas.
+valores-respeto-1  →  Captura de conversación en redes: Trato cordial y sin presión de compra.
+valores-respeto-2  →  Foto o mockup aplicado: Diseños que honran la naturaleza y la cultura de la Selva Central.
+valores-respeto-3  →  Captura de conversación en redes: Responder todas las consultas, también las que no terminan en alquiler.
+valores-respeto-4  →  Foto o mockup aplicado: Pedir permiso antes de publicar la foto de una persona.
+valores-respeto-5  →  Captura de conversación en redes: Agradecer sugerencias y atender los reclamos con calma.
+tono-calido-1  →  Captura de conversación en redes: ¡Hola! Qué gusto saludarte en Atelier.
+tono-calido-2  →  Captura de conversación en redes: Gracias por confiar en nosotros para tu evento.
+tono-calido-3  →  Captura de conversación en redes: Estamos aquí para ayudarte a elegir con calma.
+tono-calido-4  →  Captura de conversación en redes: Cuéntanos tu idea, nos encantará escucharla.
+tono-calido-5  →  Foto o mockup aplicado: Que tengas un día lleno de flores.
+tono-cercano-1  →  Captura de conversación en redes: Cuéntanos, ¿para qué ocasión es?
+tono-cercano-2  →  Captura de conversación en redes: Te explico cómo lo hacemos.
+tono-cercano-3  →  Captura de conversación en redes: ¿Lo vemos juntos?
+tono-cercano-4  →  Captura de conversación en redes: Aquí en Mazamari te esperamos.
+tono-cercano-5  →  Captura de conversación en redes: Dime tu talla y te muestro las opciones.
+tono-inspirador-1  →  Foto o mockup aplicado: Tu evento puede florecer.
+tono-inspirador-2  →  Foto o mockup aplicado: Vístete de selva y abre tus alas.
+tono-inspirador-3  →  Foto o mockup aplicado: Cada pieza cuenta una historia de la naturaleza.
+tono-inspirador-4  →  Foto o mockup aplicado: Haz que tu sesión de fotos se vuelva un cuento.
+tono-inspirador-5  →  Foto o mockup aplicado: Arte textil que florece con la naturaleza.
+tono-profesional-1  →  Captura de conversación en redes: Confirmamos tu reserva con la pieza y la talla elegidas.
+tono-profesional-2  →  Captura de conversación en redes: Te respondemos en el plazo que acordemos.
+tono-profesional-3  →  Captura de conversación en redes: Adjuntamos fotos de la pieza y sus medidas.
+tono-profesional-4  →  Captura de conversación en redes: Quedamos atentos a tu confirmación.
+tono-profesional-5  →  Captura de conversación en redes: Gracias por tu consulta; este es el detalle.
+tono-creativo-1  →  Foto o mockup aplicado: ¿Y si tu look tuviera alas?
+tono-creativo-2  →  Foto o mockup aplicado: Tres formas de lucir la misma pieza.
+tono-creativo-3  →  Foto o mockup aplicado: Hoy: del boceto a la pasarela.
+tono-creativo-4  →  Foto o mockup aplicado: Adivina qué flor inspiró este vestido.
+tono-creativo-5  →  Foto o mockup aplicado: Elige tú: ¿plumas, flores o ecodiseño?
+plan-datos  →  Foto del local o la fachada de Atelier con su letrero
+plan-presentacion  →  Foto del taller o del equipo trabajando
+plan-diagnostico  →  Captura del perfil actual de Facebook o Instagram de Atelier
+plan-foda  →  Foto de una fortaleza: un vestuario terminado
+plan-audiencias  →  Fotos de clientes reales usando los trajes (con permiso)
+plan-objetivos  →  Mockup de una publicación que cumple un objetivo de comunicación
+plan-mensaje  →  Pieza gráfica con el eslogan "Arte textil que florece con la naturaleza"
+plan-canales  →  Capturas de los canales: Facebook, Instagram, TikTok y WhatsApp
+plan-acciones  →  Foto o mockup de las acciones: reel, afiche e historia
+plan-cronograma  →  Captura del calendario de contenidos (Canva o Excel)
+plan-presupuesto  →  Foto de los materiales o de la cotización de impresión
+plan-indicadores  →  Captura de estadísticas de Instagram o Facebook
+tono-simulador  →  Captura real de una conversación de Atelier con un cliente
